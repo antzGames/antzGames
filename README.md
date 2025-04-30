@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![AntzGames GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&theme=dark&show_icons=shadow_red)
+![AntzGames GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&show=discussions_started&theme=ambient_gradient&show_icons=true&rank_icon=github)
+
+<p>
+  
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antzGames&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
