@@ -1,6 +1,3 @@
-## Welcome to AntzGames
-
-
 ![Antz_1280x515](https://github.com/user-attachments/assets/a8ac90f8-85f0-4be0-ae51-fdc8c5ce41b9)
 
 <!--
