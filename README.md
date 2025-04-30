@@ -1,6 +1,7 @@
 ## Welcome to AntzGames
 
-![Antz_1280x720](https://github.com/user-attachments/assets/fad6f527-23e9-49eb-85ff-c56a65d9d134)
+
+![Antz_1280x515](https://github.com/user-attachments/assets/a8ac90f8-85f0-4be0-ae51-fdc8c5ce41b9)
 
 <!--
 **antzGames/antzGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
