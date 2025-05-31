@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![AntzGames GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&show=discussions_started&theme=ambient_gradient&show_icons=true&rank_icon=github&bg_color=45,942021,e44033)
+![AntzGames GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&show_icons=true&theme=ambient_gradient&show_icons=true&show=discussions_started&rank_icon=github&bg_color=45,942021,e44033)
 
 <p>
   
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&show_icons=true&theme=transparent)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antzGames&theme=ambient_gradient&show_icons=true&bg_color=45,942021,e44033)](https://github.com/anuraghazra/github-readme-stats)
