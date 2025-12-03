@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![AntzGames GitHub stats](https://github-readme-stats.vercel.app/api?username=antzGames&show_icons=true&theme=ambient_gradient&show_icons=true&show=discussions_started&rank_icon=github&bg_color=45,942021,e44033)
+-->
 
 <!--
 <p>
